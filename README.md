@@ -7,7 +7,8 @@ when you open the home page you think you should see this page but I check one p
  
  ## ask-location page
 <!--![ask-location](https://user-images.githubusercontent.com/89915857/155968058-db4b864e-6ed6-4551-b047-560aef711be8.png)-->
-<img src="location1.png" width="800>
+![location1](https://user-images.githubusercontent.com/103450680/179185570-16ab7670-94cb-40a1-a965-e231a08584a5.png)
+
 as you see this page created for ask you a kind of question like "can I take access to your location ? " and you have two tracks for answer:
   - If you're going to say `No` so you can't go to the home page because as I told you, home page needs your location 
   - If you're going to say `Yes` so your location will store in `localStorage` and you will redirect to home page
@@ -16,12 +17,15 @@ as you see this page created for ask you a kind of question like "can I take acc
 > ❗❗Attention❗❗: **sometimes If you accept that the website takes access to your location it will show a error message like this**:
 
 <!--![Screenshot 2022-02-28 142925](https://user-images.githubusercontent.com/89915857/155971916-1d3bb408-5a82-48d4-9252-240760e941c0.png)-->
-<img src="location2.png" width="800>
+![location2](https://user-images.githubusercontent.com/103450680/179185719-e8cf52ba-8f47-4577-9e1c-30ab734d7cf8.png)
+
 this error is because of your connection, we recommand use a `vpn` for solve this problem.
 
 ## home page
 <!--![Screenshot 2022-02-28 144202](https://user-images.githubusercontent.com/89915857/155973653-a1389418-b0fa-40ad-867a-2660411f3250.png)-->
-<img src="homepage1.png" width="800>
+![homepage1](https://user-images.githubusercontent.com/103450680/179185847-e1b4a76f-eb9e-45f7-b33d-10758eb6143e.png)
+![homepage2](https://user-images.githubusercontent.com/103450680/179185860-59cc6c73-f4c0-4ae6-91d2-23b77d6d13d6.png)
+
 
 welcome to the home page. this is where that you can search `any` places, areas, countries, streets and etc then then you can see all weather datas are collecting for you.
 
